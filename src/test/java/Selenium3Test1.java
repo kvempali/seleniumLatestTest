@@ -18,7 +18,7 @@ public class Selenium3Test1 {
     }
 
     @Test
-    public void testSeleniumLatest1() throws Exception {
+    public void testSelenium3WithFirefox() throws Exception {
         driver.get("http://stirileprotv.ro/");
         Assert.assertTrue("The title was not as expected! ",driver.getTitle().contains("Stiri de ultima ora"));
     }
