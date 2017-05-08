@@ -9,4 +9,4 @@ This project has two working examples of selenium basic tests using:
 
 -firefox geckodriver-v0.15.0-win64 and Firefox web browser 52.0.2 (64-bit)
 
--Internet Explorer 11 with IEDriverServer.exe
+-Internet Explorer 11 with IEDriverServer.exe (64-bit)
