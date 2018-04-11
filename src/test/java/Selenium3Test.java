@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 /**
  * Created by Alex on 4/17/2017.
  */
-public class Selenium3Test1 {
+public class Selenium3Test {
     private WebDriver driver;
 
     @Before
