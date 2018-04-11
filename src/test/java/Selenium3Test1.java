@@ -13,7 +13,7 @@ public class Selenium3Test1 {
 
     @Before
     public void setUp() throws Exception {
-        System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
+        //System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
         driver = new FirefoxDriver();
     }
 
